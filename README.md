@@ -5,17 +5,13 @@ It tells your team score, opposing team score, the difference and keep in track 
 
 Syntax :
 
-To enter scores: 
-  java Main <parameters>
+[Execution command] <parameters>
+  
+  parameters 1-6: placements
+  parameters 7: map code
+  
+--> Add scores and map code
 
-  parameters 1-6: the 6 placements of your team
-  parameter 7: name of the map
+[Execution command] stop
   
-To reset scores:
-  java Main stop
-  
-WARNINGS : No Undo Command yet
-  
-Security: 
-  Program does not run if there are not exactly 1 or 7 parameters.
-
+--> Reset scores 
