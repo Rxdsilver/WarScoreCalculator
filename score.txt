@@ -1,2 +1,0 @@
-yourTeam: 122
-oppTeam: 42
