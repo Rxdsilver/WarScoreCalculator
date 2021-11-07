@@ -8,9 +8,11 @@ Syntax :
 [Execution command] <parameters>
   
   parameters 1-6: placements
+  
   parameters 7: map code
   
 --> Add scores and map code
+
 
 [Execution command] stop
   
